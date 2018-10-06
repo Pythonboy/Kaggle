@@ -1,2 +1,2 @@
 # Kaggle
-记录在Kaggle上的练习笔记
+- 2018/10/6 **Python Programming from A to Z**
